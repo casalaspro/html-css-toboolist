@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap');
 
 *{
   margin: 0;
@@ -47,14 +47,20 @@ header > img{
 button{
   padding: 10px;
   border-radius: 5px;
-  border: none;
 
 }
 
 .bt-task{
   background-color: #47ADF2;
+  border: 2px solid #47ADF2;
   color: white;
   margin-right: 5px;
+}
+
+.bt-section{
+  background-color: transparent;
+  border: 2px solid #b4b4b4;;
+  color: #b4b4b4;
 }
 
 ul{
@@ -80,7 +86,8 @@ li{
 }
 
 ul > li > ul > li{
-  font-weight: 300;
+  font-weight: 400;
+  
 }
 
 .check{
