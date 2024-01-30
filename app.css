@@ -7,10 +7,6 @@
   font-family: 'Rubik', sans-serif;
 }
 
-main{
-
-}
-
 body{
   background-color: #F7F8F9;
 }
@@ -44,5 +40,9 @@ header > img{
 .actions{
   border-bottom: 1px solid #F7F8F9;
   padding: 10px;
+}
+
+ul{
+  list-style-type: none;
 }
 
