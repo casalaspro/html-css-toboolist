@@ -38,11 +38,25 @@ header > img{
 }
 
 .actions{
-  border-bottom: 1px solid #F7F8F9;
+  border-bottom: 3px solid #F7F8F9;
+  padding: 15px 0;
+}
+
+button{
   padding: 10px;
+  border-radius: 5px;
+  border: none;
+
+}
+
+.bt-task{
+  background-color: #47ADF2;
+  color: white;
+  margin-right: 5px;
 }
 
 ul{
   list-style-type: none;
+  padding-top: 30px;
 }
 
