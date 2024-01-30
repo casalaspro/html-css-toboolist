@@ -4,4 +4,29 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Rubik', sans-serif;
 }
+
+body{
+  background-color: #F7F8F9;
+}
+
+.white{
+  background-color: white;
+}
+
+header{
+  padding: 10px;
+}
+
+h1{
+  display: inline-block;
+  font-size: 3vw;
+  padding-bottom: 5px;
+  vertical-align: super;
+}
+
+header > img{
+  margin-right: 10px;
+}
+
