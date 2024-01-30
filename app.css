@@ -40,6 +40,7 @@ header > img{
 .actions{
   border-bottom: 3px solid #F7F8F9;
   padding: 15px 0;
+  margin-bottom: 30px;
 }
 
 button{
@@ -57,6 +58,22 @@ button{
 
 ul{
   list-style-type: none;
-  padding-top: 30px;
+  padding-top: 10px;
 }
 
+h3{
+  display: inline-block;
+  margin-left: 5px;
+}
+
+li > p{
+  display: inline-block;
+}
+
+li{
+  margin-bottom: 20px;
+}
+
+.section-title{
+  margin-bottom: 30px;
+}
