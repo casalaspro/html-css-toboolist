@@ -15,6 +15,7 @@ body{
   max-width: 1024px;
   margin: 0 auto;
   padding-left: 4vw;
+  padding-bottom: 2vw;
 }
 
 .bg-white{
@@ -76,4 +77,27 @@ li{
 
 .section-title{
   margin-bottom: 30px;
+}
+
+.check{
+  border: 1px solid;
+  display: inline-block;
+  width: 1.4em;
+  height: 1.4em;
+  text-align: center;
+  line-height: 1.4em;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.ok-logo{
+  color: #67C2AC;
+}
+
+.cross-logo{
+  color: #EA5953;
+}
+
+.tag{
+  
 }
