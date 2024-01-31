@@ -37,6 +37,15 @@ header > img{
   margin-right: 10px;
 }
 
+.main-content{
+  padding: 0 20px;
+}
+
+.card{
+  border-radius: 15px 15px 0 0;
+  padding-bottom: 20px;
+}
+
 .actions{
   border-bottom: 3px solid #F7F8F9;
   padding: 15px 4vw;
