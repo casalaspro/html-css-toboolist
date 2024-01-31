@@ -14,7 +14,6 @@ body{
 .container{
   max-width: 1024px;
   margin: 0 auto;
-  padding-left: 4vw;
   padding-bottom: 2vw;
 }
 
@@ -40,7 +39,7 @@ header > img{
 
 .actions{
   border-bottom: 3px solid #F7F8F9;
-  padding: 15px 0;
+  padding: 15px 4vw;
   margin-bottom: 30px;
 }
 
@@ -61,6 +60,10 @@ button{
   background-color: transparent;
   border: 2px solid #b4b4b4;;
   color: #b4b4b4;
+}
+
+.list{
+  padding-left: 4vw;
 }
 
 ul{
